@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mcloud//westy-court-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Free Court – West View Rec
+X-WR-TIMEZONE:America/Denver
+X-WR-CALDESC:Free open-gym court times at West View Rec, auto-updated when the posted schedule changes.
+X-APPLE-CALENDAR-COLOR:#40E0D0
+X-OUTLOOK-COLOR:#40E0D0
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c4e772eec8e73734@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260105T130000
+DTEND;TZID=America/Denver:20260105T210000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d22539014d6d8abd@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260106T110000
+DTEND;TZID=America/Denver:20260106T210000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f15d95807e999f@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260107T150000
+DTEND;TZID=America/Denver:20260107T210000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a82279e16d6f83fd@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260108T110000
+DTEND;TZID=America/Denver:20260108T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13b23f67431d22b4@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260109T120000
+DTEND;TZID=America/Denver:20260109T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5cd41aeb0f6195a1@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260110T110000
+DTEND;TZID=America/Denver:20260110T210000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16be9dd0d816ccab@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260111T090000
+DTEND;TZID=America/Denver:20260111T120000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb804df199d56f2@westy-court
+DTSTAMP:20260914T000758Z
+DTSTART;TZID=America/Denver:20260111T150000
+DTEND;TZID=America/Denver:20260111T180000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:Open Gym – court free
+DESCRIPTION:Open Gym (drop-in, no reservation) at West View Recreation Ce
+ nter. Court is free for pickup play. Source schedule window: August 3, 2
+ 026-September 7, 2026. Auto-updated from https://www.westminsterco.gov/f
+ acilities/facility/details/West-View-Recreation-Center-87
+LOCATION:West View Recreation Center, 10747 W View Rd, Westminster, CO 80031
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
